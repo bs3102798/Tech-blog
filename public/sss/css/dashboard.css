@@ -1,0 +1,44 @@
+.post-container {
+    transition: background-color 0.3s;
+}
+
+.post-container:hover {
+    border-right: 1em solid #656565;
+    background-color: rgba(126, 126, 126, 0.2);
+    border-radius: 0.5em;
+}
+
+body {
+    background-image: url('');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* Features */
+
+@media screen and (min-width: 768px) {}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    /* tablets in landscape mode */
+}
+
+@media screen and (max-width: 767px) and (orientation: portrait) {
+    /* tablets in portrait mode */
+}
+
+@media screen and (max-width: 767px) {
+    /* for smartphones */
+}
+
+@media screen and (min-width: 1200px) {
+    /* for large desktop screens */
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-resolution: 192dpi) {
+    /* for high-resolution displays */
+}
+
+@media (color-gamut: srgb) {}
