@@ -17,6 +17,9 @@ The Modivation for this project was to show the connectivity of the handlebars. 
 
 https://drive.google.com/file/d/1WhB-ss5fr8xJBPEiRgvjH602pfmcsAhO/view
 
+# heroku
+https://bs3102798-tech-blog-d05f0f76899a.herokuapp.com/
+
 # How to run
 
 - open an intergrated terminal with the server.js
